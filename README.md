@@ -2,6 +2,21 @@
 
 Ez a dokumentum összefoglalja a GamingVerse Hub hobby projekt sprintjeit és feladatait.
 
+## Prerequisites
+
+Before you begin, ensure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Docker](https://www.docker.com/) 
+
+## Clone the Repository
+
+Open your terminal or command prompt and run:
+
+```bash
+git clone https://github.com/me-and-the-boys-hu/GamingVerseHub.git
+```
+
 ## Tartalom
 - [Sprint 0: Fejlesztői környezet beállítása](#sprint-0-fejlesztői-környezet-beállítása)
 - [Sprint 1: Autentikáció és alapprofil](#sprint-1-autentikáció-és-alapprofil)
